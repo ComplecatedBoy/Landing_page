@@ -2,3 +2,8 @@
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+
+.creativity{
+    background: black;
+    background-image: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(218,238,248,1) 30%, rgba(218,238,248,1) 80%, rgba(255,255,255,1) 100%);
+}
